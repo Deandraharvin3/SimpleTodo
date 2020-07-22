@@ -23,7 +23,7 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-
+All completed
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
